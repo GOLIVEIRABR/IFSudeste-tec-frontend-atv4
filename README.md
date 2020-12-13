@@ -7,4 +7,4 @@ Esta é a quarta atividade da disciplina de **Tecnologias Frontend** do curso de
 
 Maiores informações estão no vídeo abaixo:
 
-[![Assista o vídeo](http://img.youtube.com/vi/iFYs5bNpGRg/0.jpg)](http://www.youtube.com/watch?v=iFYs5bNpGRg "IFSudeste - Espec. Des. Web e Mobile - Tecnologias Frontend - Atv 3")
+[![Assista o Video](http://img.youtube.com/vi/KhWl-P4pZ3U/0.jpg)](http://www.youtube.com/watch?v=KhWl-P4pZ3U "IFSudeste - Espec. Des. Web e Mobile - Tecnologias Frontend - Atv 4")
